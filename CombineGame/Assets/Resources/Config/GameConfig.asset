@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b7546aa2af3ce47b86a69019c73239, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  cameraSmooth: 7
+  cameraOffset: {x: 0, y: 11.5, z: -8.7}
+  cameraAngle: {x: 52.91, y: 0, z: 0}
+  playerCapacity: 200
+  playerSpeed: 3
+  playerTurnSpeed: 200
+  stackGrassCount: 5
+  bladeSpeedRotation: 500
+  panelOpenSpeed: 0.5
+  scrollSkinSpeed: 0.3
+  winPanelShowSpeed: 2
+  winButtonShowDuration: 3
+  maxSpeedUpgrade: 0
+  maxCapacityUpgrade: 240
+  rewardForWheat: 10
+  rewardForLevelComplete: 500
+  rewardForAD: 200
+  rewardFor_1stIAP: 1000
+  rewardFor_2ndIAP: 10000
+  rewardFor_3rdIAP: 20000
+  speedUpgradePrice: 640000002c010000f4010000bc020000840300004c04000014050000dc050000a40600006c070000
+  capacityUpgradePrice: 640000002c010000f4010000bc020000840300004c04000014050000dc050000a40600006c070000

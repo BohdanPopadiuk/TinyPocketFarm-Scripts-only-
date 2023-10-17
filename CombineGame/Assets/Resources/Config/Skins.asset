@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc64299d263957f469aae5873e45e290, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier: 
+  skinPrints:
+  - price: 0
+    print: {fileID: 2100000, guid: 63d21a2b270468a4bac2637da95acb98, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 77a3aef8545eda64d962ccfdcb08c265, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: e86a5dca4a193bc40813541d0fd7bdd1, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 41d00ff075e56214288eaf236217622c, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 2ee8963d8275f0c469a96fe356ff2112, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: a92d1bbf8ad29ff488a9197f7e9efef3, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 91f5313ecaf8859478b2e210eb6c5aad, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: cda713d1e6f7aa94a9ac62985d225aa4, type: 2}
+    printPreview: {fileID: 21300000, guid: 0522ea64116b46547844f09c81302cf4, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: b06c843a45d3b6b4cafbead9aa96b94e, type: 2}
+    printPreview: {fileID: 21300000, guid: fec45fe3ec1691840929d2b4835919fe, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: a4fef9bc7f355f04ca4a48b7c9043e54, type: 2}
+    printPreview: {fileID: 21300000, guid: b706eb7673fdefc40a313a7b410dc854, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: d6610a9ea02668846972e750778b2d62, type: 2}
+    printPreview: {fileID: 21300000, guid: 7faa08416b7812546a617762cb6734de, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 0427b9ed03d311e4488b6b453d177a29, type: 2}
+    printPreview: {fileID: 21300000, guid: 4237978d5ed228c41a2c6790bc12b8f7, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 283bb415fcd563a4eb52ddec24e2e000, type: 2}
+    printPreview: {fileID: 21300000, guid: baa945b9b6d935c46b057c0028f3f1d9, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: b6de0ef79731d154d8318d8bb7e5bdf4, type: 2}
+    printPreview: {fileID: 21300000, guid: 2ef063dab3f10e64c8333b3761561b46, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 74347346498aa284e97efc20c80be10d, type: 2}
+    printPreview: {fileID: 21300000, guid: 9e4c205ee69b36a46a0ceb488bd60e71, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 669511d99e17cc345a7e7692cd8f1357, type: 2}
+    printPreview: {fileID: 21300000, guid: 244dd69a838a83d4a8f425e9e46790fa, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: f9b1f377430475240a8bb7bd1f9ef2de, type: 2}
+    printPreview: {fileID: 21300000, guid: 6a218bb3f20d8d5449529102998ca9e1, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: fd5f3daebdca9764f8c46c1ba2990ee0, type: 2}
+    printPreview: {fileID: 21300000, guid: ae2334c6b7c84314db7ba36cde06f279, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: c971c50a57457dd49abaff17666165b1, type: 2}
+    printPreview: {fileID: 21300000, guid: f7fa3af2f2b2baa46b2c4d474afbb6ba, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: fbe957be43ee06c4a891929b5071a326, type: 2}
+    printPreview: {fileID: 21300000, guid: 040f9a9d21fbe724bb8dd6e369fbed8d, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 5a952a651dbc40847a36d9456749e787, type: 2}
+    printPreview: {fileID: 21300000, guid: b012db1644c02ae40ab78e2a2eebfbd6, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 4afe4bc4001304044b9a01e0a7a4f02d, type: 2}
+    printPreview: {fileID: 21300000, guid: 21fe637568ff6ca479b2e45be3418baf, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: b5fcd9fe88a9c5b458533ae7e4eb4011, type: 2}
+    printPreview: {fileID: 21300000, guid: 0496e5bb4e74dcd428d805fec784b4f3, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 8cd56be2d19f8884ca40a1c18f326c1a, type: 2}
+    printPreview: {fileID: 21300000, guid: cf85d01c4a3ca9b4c88defa1dea2aa60, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: b0eb6da1f985f0f40b7f286158ec4dbf, type: 2}
+    printPreview: {fileID: 21300000, guid: 6e120c474f3e4204e8585a0bab2b06d5, type: 3}
+  - price: 500
+    print: {fileID: 2100000, guid: 44782c1ef9eacf14881e15e3fcb5229e, type: 2}
+    printPreview: {fileID: 21300000, guid: 89d5d795bc4aa9d49977a38c990fabbd, type: 3}
